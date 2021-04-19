@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grados73
 - 👀 I’m interested in embedded electronics, ARM processors and sport.
-- 🌱 I’m currently learning STM32 and Python.
+- 🌱 I’m currently learning STM32 and Python3.
 - 📫 You can to reach me on https://www.linkedin.com/in/kamil-gradowski-8706991aa
 
 ## My Projects:
