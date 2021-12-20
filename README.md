@@ -8,17 +8,16 @@
  STM32 ( C ): (from the newest to the oldest)
 - Aquarium controller: https://github.com/grados73/free_michelle
 - STMars modular robot: https://github.com/grados73/STMars_modular_robot
+- - Elektroniczny system przetwarzania danych treningowych biegacza (praca magisterska): https://github.com/grados73/praca_mgr
 - Analiza konstrukcyjna systemu śledzenia linii (praca inżynierska): https://github.com/grados73/praca_inz
-- Elektroniczny system przetwarzania danych treningowych biegacza (praca magisterska): https://github.com/grados73/praca_mgr
 
  RPI ( Python ):
 - Car Display: https://github.com/grados73/wyswietlacz_samochodowy
 
  Arduino ( C ):
 - Water Pump Controller: https://github.com/grados73/Water_pump_controller_PID
-- Car Lamps : https://github.com/grados73/lamps
 - OBDII reading with ELM327: https://github.com/grados73/elm327_hc05
-
+- Car Lamps : https://github.com/grados73/lamps
 
  ESP:
 - Water sensor: https://github.com/grados73/Water_sensor 
