@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning STM32 and Python3.
 - 📫 You can to reach me on https://www.linkedin.com/in/kamil-gradowski-8706991aa
 
-## My Projects:
+## My private Projects:
 
  STM32 ( C ): (from the newest to the oldest)
+- Soil moisture sensor: https://github.com/grados73/SoilMoistureSensor_v1
 - Aquarium controller v.1: https://github.com/grados73/akwa_elektron
 - Aquarium controller v.0: https://github.com/grados73/free_michelle
 - STMars modular robot: https://github.com/grados73/STMars_modular_robot
